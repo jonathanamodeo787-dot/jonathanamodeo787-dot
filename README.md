@@ -3,6 +3,16 @@
 I'm **Jonathan Amodeo**, a **junior web developer** who is passionate about programming and constantly learning new technologies. My goal is to become an advanced and specialized web developer.
 
 ---
+##portfolio
+
+<p align="left">
+  <a href="https://jonathanamodeo787-dot.github.io/portfolio/" style="text-decoration:none;">
+    <img width="40px" src="https://avatars.githubusercontent.com/u/243226826?v=4&size=64" alt="perfil" align="center"/>
+    <b>Portfolio</b>
+  </a>
+</p>
+
+---
 ## My Projects
 
 <p align="left">

@@ -12,7 +12,7 @@ I'm **Jonathan Amodeo**, a **junior web developer** who is passionate about prog
   </a>
 </p>
 
-A modern café website built with HTML and CSS.
+A modern café website built with HTML,CSS AND JS.
 
 <p align="left">
   <a href="https://jonathanamodeo787-dot.github.io/Muebles-San-Mart-n/" style="text-decoration:none;">
@@ -30,8 +30,7 @@ A furniture store website built with HTML and CSS.
   </a>
 </p>
 
-A furniture store website built with HTML and CSS.
-
+A modern gym website built with HTML and CSS, featuring a responsive design and a clean, energetic user interface.
 
 ---
 

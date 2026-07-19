@@ -23,6 +23,16 @@ A modern café website built with HTML and CSS.
 
 A furniture store website built with HTML and CSS.
 
+<p align="left">
+  <a href="https://jonathanamodeo787-dot.github.io/PowerFit-Gym/" style="text-decoration:none;">
+    <img width="40px" src="https://tse1.mm.bing.net/th/id/OIP.3dTZTn47Y9zDkvLxqEer9QHaHa?pid=Api&P=0&h=180" alt="PowerFit Gym Logo" align="center"/>
+    <b>PowerFit Gym</b>
+  </a>
+</p>
+
+A furniture store website built with HTML and CSS.
+
+
 ---
 
 ### 🔗 Connect with Me

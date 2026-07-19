@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**jonathanamodeo787-dot/jonathanamodeo787-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Jonathan Amodeo**, a **junior programmer ** I am looking to become an advanced and specialized programmer within the web field.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 My Skills
+<p align="center">
+  <kbd>
+    <kbd>Programming Languages</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="30px" src="https://skillicons.dev/icons?i=html" />
+  </kbd>
+</p>
+
+---
+### 🔗 Connect with Me
+<p align="left">
+  <a href="mailto:jonathanamodeo787@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/jonathanamodeo787-dot/Jonathanamodeo">
+    <img src="https://img.shields.io/badge/GitHub-jonathanamodeo787-dot?logo=github&logoColor=white" />
+  </a>
+</p>
+
+---

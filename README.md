@@ -14,6 +14,15 @@ I'm **Jonathan Amodeo**, a **junior web developer** who is passionate about prog
 
 A modern café website built with HTML and CSS.
 
+<p align="left">
+  <a href="https://jonathanamodeo787-dot.github.io/Muebles-San-Mart-n/" style="text-decoration:none;">
+    <img width="40px" src="https://sanmartinmuebles.com/wp-content/uploads/2025/02/logo-512.png" alt="Muebles San Martín Logo" align="center"/>
+    <b>Muebles San Martín</b>
+  </a>
+</p>
+
+A furniture store website built with HTML and CSS.
+
 ---
 
 ### 🔗 Connect with Me

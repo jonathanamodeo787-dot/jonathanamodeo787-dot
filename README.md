@@ -3,7 +3,7 @@
 I'm **Jonathan Amodeo**, a **junior web developer** who is passionate about programming and constantly learning new technologies. My goal is to become an advanced and specialized web developer.
 
 ---
-##portfolio
+## portfolio
 
 <p align="left">
   <a href="https://jonathanamodeo787-dot.github.io/portfolio/" style="text-decoration:none;">
@@ -22,7 +22,7 @@ I'm **Jonathan Amodeo**, a **junior web developer** who is passionate about prog
   </a>
 </p>
 
-A modern café website built with HTML,CSS AND JS.
+A modern café website built with HTML,CSS, and JS.
 
 <p align="left">
   <a href="https://jonathanamodeo787-dot.github.io/Muebles-San-Mart-n/" style="text-decoration:none;">

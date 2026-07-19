@@ -16,9 +16,17 @@ I'm **Jonathan Amodeo**, a **junior web developer** who is passionate about prog
 ---
 ## My Projects
 
-<a href="https://github.com/jonathanamodeo787-dot/Luna-Caf-">Luna-Café</a>
+<p align="left">
+  <a href="https://jonathanamodeo787-dot.github.io/Luna-Caf-/" style="text-decoration:none;">
+    <img width="40px" src="https://colijd.github.io/LunaCafe/img/logo.jpg" alt="Luna Café Logo" align="center"/>
+    <b>Luna Café</b>
+  </a>
+</p>
+
+A modern café website built with HTML and CSS.
 
 ---
+
 ### 🔗 Connect with Me
 
 <p align="left">

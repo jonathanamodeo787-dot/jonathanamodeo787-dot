@@ -26,6 +26,36 @@ I'm **Jonathan Amodeo**, a **junior web developer** who is passionate about prog
 ## My Projects
 
 <p align="left">
+  <a href="https://jonathanamodeo787-dot.github.io/CodeQuest/" style="text-decoration:none;">
+    <img width="50px" src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" alt="CodeQuest Logo" align="center"/>
+    <b> 🎯 CodeQuest </b>
+  </a>
+</p>
+
+CodeQuest is an interactive programming challenge platform built with HTML, CSS, and JavaScript. It features technology filters, a manual challenge confirmation system, progress tracking, unlockable achievements, localStorage persistence, and a responsive light/dark mode design.
+
+
+<p align="left">
+  <a href="https://jonathanamodeo787-dot.github.io/Clicktecno/" style="text-decoration:none;">
+    <img width="50px" src="https://www.clicktecno.com.ar/logo.jpg" alt="Clicktecno Logo" align="center"/>
+    <b> 💻 Clicktecno </b>
+  </a>
+</p>
+
+Online technology store developed using HTML, CSS, and JavaScript, featuring a shopping cart, dynamic inventory, and a responsive design.
+
+
+<p align="left">
+  <a href="https://jonathanamodeo787-dot.github.io/PowerFit-Gym/" style="text-decoration:none;">
+    <img width="40px" src="https://tse1.mm.bing.net/th/id/OIP.3dTZTn47Y9zDkvLxqEer9QHaHa?pid=Api&P=0&h=180" alt="PowerFit Gym Logo" align="center"/>
+    <b>💪 PowerFit Gym</b>
+  </a>
+</p>
+
+A modern gym website built with HTML and CSS, featuring a responsive design and a clean, energetic user interface.
+
+
+<p align="left">
   <a href="https://jonathanamodeo787-dot.github.io/Luna-Caf-/" style="text-decoration:none;">
     <img width="40px" src="https://colijd.github.io/LunaCafe/img/logo.jpg" alt="Luna Café Logo" align="center"/>
     <b>☕ Luna Café</b>
@@ -42,24 +72,6 @@ A modern café website built with HTML,AND CSS.
 </p>
 
 A furniture store website built with HTML and CSS.
-
-<p align="left">
-  <a href="https://jonathanamodeo787-dot.github.io/PowerFit-Gym/" style="text-decoration:none;">
-    <img width="40px" src="https://tse1.mm.bing.net/th/id/OIP.3dTZTn47Y9zDkvLxqEer9QHaHa?pid=Api&P=0&h=180" alt="PowerFit Gym Logo" align="center"/>
-    <b>💪 PowerFit Gym</b>
-  </a>
-</p>
-
-A modern gym website built with HTML and CSS, featuring a responsive design and a clean, energetic user interface.
-
-<p align="left">
-  <a href="https://jonathanamodeo787-dot.github.io/Clicktecno/" style="text-decoration:none;">
-    <img width="50px" src="https://www.clicktecno.com.ar/logo.jpg" alt="Clicktecno Logo" align="center"/>
-    <b> 💻 Clicktecno </b>
-  </a>
-</p>
-
-Tienda online de tecnología desarrollada con HTML, CSS y JavaScript, con carrito de compras, stock dinámico y diseño responsive.
 
 ---
 

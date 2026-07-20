@@ -42,6 +42,15 @@ A furniture store website built with HTML and CSS.
 
 A modern gym website built with HTML and CSS, featuring a responsive design and a clean, energetic user interface.
 
+<p align="left">
+  <a href="https://jonathanamodeo787-dot.github.io/Clicktecno/" style="text-decoration:none;">
+    <img width="40px" src="https://www.clicktecno.com.ar/logo.jpg" alt="Clicktecno Logo" align="center"/>
+    <b>Clicktecno</b>
+  </a>
+</p>
+
+Tienda online de tecnología desarrollada con HTML, CSS y JavaScript, con carrito de compras, stock dinámico y diseño responsive.
+
 ---
 
 ### 🔗 Connect with Me

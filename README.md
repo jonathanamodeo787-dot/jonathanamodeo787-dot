@@ -3,13 +3,23 @@
 I'm **Jonathan Amodeo**, a **junior web developer** who is passionate about programming and constantly learning new technologies. My goal is to become an advanced and specialized web developer.
 
 ---
+## technologies
+<div display="flex">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML">
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS">
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
+</div>
+
+---
 ## portfolio
 
 <p align="left">
-  <a href="https://jonathanamodeo787-dot.github.io/portfolio/" style="text-decoration:none;">
-    <img width="40px" src="https://avatars.githubusercontent.com/u/243226826?v=4&size=64" alt="perfil" align="center"/>
-    <b>Portfolio</b>
-  </a>
+  <a href="https://jonathanamodeo787-dot.github.io/portfolio/">
+  <b>🌐 Visit my Portfolio</b>
+</a>
 </p>
 
 ---
@@ -18,7 +28,7 @@ I'm **Jonathan Amodeo**, a **junior web developer** who is passionate about prog
 <p align="left">
   <a href="https://jonathanamodeo787-dot.github.io/Luna-Caf-/" style="text-decoration:none;">
     <img width="40px" src="https://colijd.github.io/LunaCafe/img/logo.jpg" alt="Luna Café Logo" align="center"/>
-    <b>Luna Café</b>
+    <b>☕ Luna Café</b>
   </a>
 </p>
 
@@ -27,7 +37,7 @@ A modern café website built with HTML,AND CSS.
 <p align="left">
   <a href="https://jonathanamodeo787-dot.github.io/Muebles-San-Mart-n/" style="text-decoration:none;">
     <img width="40px" src="https://sanmartinmuebles.com/wp-content/uploads/2025/02/logo-512.png" alt="Muebles San Martín Logo" align="center"/>
-    <b>Muebles San Martín</b>
+    <b>🪑 Muebles San Martín</b>
   </a>
 </p>
 
@@ -36,7 +46,7 @@ A furniture store website built with HTML and CSS.
 <p align="left">
   <a href="https://jonathanamodeo787-dot.github.io/PowerFit-Gym/" style="text-decoration:none;">
     <img width="40px" src="https://tse1.mm.bing.net/th/id/OIP.3dTZTn47Y9zDkvLxqEer9QHaHa?pid=Api&P=0&h=180" alt="PowerFit Gym Logo" align="center"/>
-    <b>PowerFit Gym</b>
+    <b>💪 PowerFit Gym</b>
   </a>
 </p>
 
@@ -44,8 +54,8 @@ A modern gym website built with HTML and CSS, featuring a responsive design and 
 
 <p align="left">
   <a href="https://jonathanamodeo787-dot.github.io/Clicktecno/" style="text-decoration:none;">
-    <img width="40px" src="https://www.clicktecno.com.ar/logo.jpg" alt="Clicktecno Logo" align="center"/>
-    <b>Clicktecno</b>
+    <img width="50px" src="https://www.clicktecno.com.ar/logo.jpg" alt="Clicktecno Logo" align="center"/>
+    <b> 💻 Clicktecno </b>
   </a>
 </p>
 

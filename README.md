@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hola 👋
 
-I'm **Jonathan Amodeo**, a **junior web developer** who is passionate about programming and constantly learning new technologies. My goal is to become an advanced and specialized web developer.
+Soy **Jonathan Amodeo**, un **desarrollador web junior** apasionado por la programación y en constante aprendizaje de nuevas tecnologías. Mi objetivo es convertirme en un desarrollador web avanzado y especializado.
 
 ---
-## technologies
+## tecnologias
 <div display="flex">
   <img src="https://skillicons.dev/icons?i=html" alt="HTML">
   <img src="https://skillicons.dev/icons?i=css" alt="CSS">
@@ -32,7 +32,7 @@ I'm **Jonathan Amodeo**, a **junior web developer** who is passionate about prog
   </a>
 </p>
 
-CodeQuest is an interactive programming challenge platform built with HTML, CSS, and JavaScript. It features technology filters, a manual challenge confirmation system, progress tracking, unlockable achievements, localStorage persistence, and a responsive light/dark mode design.
+CodeQuest es una plataforma interactiva de desafíos de programación desarrollada con HTML, CSS y JavaScript. Cuenta con filtros por tecnología, un sistema de confirmación manual de desafíos, seguimiento del progreso, logros desbloqueables, persistencia mediante localStorage y un diseño responsivo con modo claro y oscuro.
 
 
 <p align="left">
@@ -42,7 +42,7 @@ CodeQuest is an interactive programming challenge platform built with HTML, CSS,
   </a>
 </p>
 
-Online technology store developed using HTML, CSS, and JavaScript, featuring a shopping cart, dynamic inventory, and a responsive design.
+Tienda de tecnología en línea desarrollada con HTML, CSS y JavaScript, que cuenta con carrito de compras, inventario dinámico y diseño responsivo.
 
 
 <p align="left">
@@ -52,7 +52,7 @@ Online technology store developed using HTML, CSS, and JavaScript, featuring a s
   </a>
 </p>
 
-A modern gym website built with HTML and CSS, featuring a responsive design and a clean, energetic user interface.
+Un sitio web moderno para un gimnasio, desarrollado con HTML y CSS, que cuenta con un diseño adaptable y una interfaz de usuario limpia y llena de energía.
 
 
 <p align="left">
@@ -62,7 +62,7 @@ A modern gym website built with HTML and CSS, featuring a responsive design and 
   </a>
 </p>
 
-A modern café website built with HTML,AND CSS.
+Un sitio web moderno para una cafetería, creado con HTML y CSS.
 
 <p align="left">
   <a href="https://jonathanamodeo787-dot.github.io/Muebles-San-Mart-n/" style="text-decoration:none;">
@@ -71,7 +71,7 @@ A modern café website built with HTML,AND CSS.
   </a>
 </p>
 
-A furniture store website built with HTML and CSS.
+Un sitio web de una tienda de muebles creado con HTML y CSS.
 
 ---
 

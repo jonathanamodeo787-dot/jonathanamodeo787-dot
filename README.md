@@ -34,9 +34,7 @@ Actualmente estoy aprendiendo y mejorando mis habilidades en desarrollo frontend
 
 ## ⛏️ WebMine
 
-<a href="https://jonathanamodeo787-dot.github.io/Webmine/bloques.html">
-<img width="50" src="https://cdn-icons-png.flaticon.com/512/164/164756.png">
-</a>
+⛏ WEB<span style="color:#4CAF50">MINE</span>
 
 **WebMine** es una wiki interactiva de Minecraft desarrollada con:
 

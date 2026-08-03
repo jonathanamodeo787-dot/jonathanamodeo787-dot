@@ -53,8 +53,7 @@ Características:
 ✅ Interfaz estilo wiki oscura  
 ✅ Información almacenada en archivos JSON  
 
-
-🌐 **Demo:**  
+🔗 **Link:**  
 https://jonathanamodeo787-dot.github.io/Webmine/bloques.html
 
 ---
@@ -80,6 +79,8 @@ Características:
 ✅ Persistencia con LocalStorage  
 ✅ Diseño responsive con modo claro y oscuro  
 
+🔗 **Link:**  
+https://jonathanamodeo787-dot.github.io/CodeQuest/
 
 ---
 
@@ -102,6 +103,8 @@ Características:
 ✅ Diseño responsive  
 ✅ Interfaz moderna  
 
+🔗 **Link:**  
+https://jonathanamodeo787-dot.github.io/Clicktecno/
 
 ---
 
@@ -124,6 +127,8 @@ Características:
 ✅ Secciones informativas  
 ✅ Interfaz limpia y moderna  
 
+🔗 **Link:**  
+https://jonathanamodeo787-dot.github.io/PowerFit-Gym/
 
 ---
 
@@ -146,6 +151,8 @@ Características:
 ✅ Adaptable a dispositivos móviles  
 ✅ Interfaz moderna  
 
+🔗 **Link:**  
+https://jonathanamodeo787-dot.github.io/Luna-Caf-/
 
 ---
 
@@ -168,6 +175,8 @@ Características:
 ✅ Presentación de productos  
 ✅ Responsive Design  
 
+🔗 **Link:**  
+https://jonathanamodeo787-dot.github.io/Muebles-San-Mart-n/
 
 ---
 

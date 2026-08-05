@@ -32,32 +32,6 @@ Actualmente estoy aprendiendo y mejorando mis habilidades en desarrollo frontend
 
 # 📂 Proyectos
 
-## ⛏️ WebMine
-
-⛏ WEB<span style="color:#4CAF50">MINE</span>
-
-**WebMine** es una wiki interactiva de Minecraft desarrollada con:
-
-- HTML
-- CSS
-- JavaScript
-- JSON
-
-Características:
-
-✅ Wiki de bloques de Minecraft  
-✅ Sistema de búsqueda dinámica  
-✅ Datos cargados mediante Fetch API  
-✅ Categorías organizadas  
-✅ Diseño responsive  
-✅ Interfaz estilo wiki oscura  
-✅ Información almacenada en archivos JSON  
-
-🔗 **Link:**  
-https://jonathanamodeo787-dot.github.io/Webmine/bloques.html
-
----
-
 ## 🎯 CodeQuest
 
 <a href="https://jonathanamodeo787-dot.github.io/CodeQuest/">
